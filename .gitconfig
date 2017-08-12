@@ -7,3 +7,4 @@
 	helper = osxkeychain
 [core]
 	excludesfile = /Users/Michael/.gitignore_global
+	editor = /usr/bin/vim
