@@ -1,0 +1,9 @@
+[color]
+	ui = true
+[user]
+	name = michael.hermawan
+	email = michael.hermawan@wgs.co.id
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = /Users/Michael/.gitignore_global
